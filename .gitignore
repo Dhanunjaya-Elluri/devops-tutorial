@@ -1,1 +1,4 @@
 playground.txt
+
+# Add env to gitignore
+flask-app/env
